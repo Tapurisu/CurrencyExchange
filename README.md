@@ -1,4 +1,3 @@
 # CurrencyExchange
-项目名称：CurrencyExchange
-作者：王凯
-学号41710019
+# 作者：王凯
+# 学号：41710019
