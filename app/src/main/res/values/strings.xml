@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CurrencyExchange</string>
+    <string name="input_value">please input RMB</string>
+</resources>
